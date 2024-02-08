@@ -8,3 +8,4 @@ Bloco de notas usando o Text to Speech nativo via API do Browser
 * Node LTS
 * NPM
 * TailwindCSS
+* RadixUI
