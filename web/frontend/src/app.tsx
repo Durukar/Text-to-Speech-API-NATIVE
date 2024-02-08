@@ -1,8 +1,3 @@
 export function App() {
-  return (
-    <div>
-      <h1>My App</h1>
-      <p>Welcome to my app!</p>
-    </div>
-  )
+  return <h1 className="text-3x1 font-bold underline"> Olivo Mordidinha</h1>
 }
