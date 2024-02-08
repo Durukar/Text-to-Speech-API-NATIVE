@@ -7,4 +7,4 @@ Bloco de notas usando o Text to Speech nativo via API do Browser
 * Vite
 * Node LTS
 * NPM
-*
+* TailwindCSS
